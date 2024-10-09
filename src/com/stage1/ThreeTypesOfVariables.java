@@ -13,7 +13,7 @@ public class ThreeTypesOfVariables {
     }
     
     public void sum() {
-        float temp = 20.5; // you cant access temp in other methods
+//        float temp = 20.5; // you cant access temp in other methods
     }
 }
 
